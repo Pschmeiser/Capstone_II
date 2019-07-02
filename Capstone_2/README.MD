@@ -31,6 +31,8 @@ In order to get a better scope of the data and the features we are dealing with 
 
 <img src ="images/scree.png"/>
 
+<img src ="images/pca plot.png"/>
+
 As you can see not a lot of of variance is explained by the first few principal components.   So a plot was made for the explained variance.  
 
 <img src ="images/var.png" />
