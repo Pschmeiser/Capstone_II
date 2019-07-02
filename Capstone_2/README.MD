@@ -1,5 +1,6 @@
-
 <img src ="images/lungs.jpg" />
+
+
 # Classification of Pneumonia in Adults
 ### Table of Contents
 1. [Problem ](#problem)
