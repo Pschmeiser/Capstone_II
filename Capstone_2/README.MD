@@ -21,6 +21,7 @@ For this study a large data set provided by Dryad Digital Repository and consist
 <a name="clean"></a>
 #### Cleaning of the Data
 The first thing done was to convert all yes and no and null values to 1's and 0's.   Additionally for intake viruses and treatments a series of dummy variables were created to make values for this data.  Next because of the large amount of features on the data set PCA was used to better identify feature importance.
+<img src ="images/data 2.png"/>
 
 <a name="methods"></a>
 #### Methods
@@ -45,3 +46,6 @@ this also happens to be the ratio of dead to living so this reason for both mode
 
 #### Naive Bayes
 <img src ="images/bern.png"/>
+
+
+Clearly the stronger of the two models is that of the Naive Bayes.  Although its accuracy is very close to that of the actual ratio of dead to living.   
