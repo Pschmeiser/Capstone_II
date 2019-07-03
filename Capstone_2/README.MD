@@ -20,6 +20,8 @@ For this study a large data set provided by Dryad Digital Repository and consist
 
 There was also a section "organism 1" which had only a few cases overall but a decent influence.
 <img src ="images/strep.png"/>
+So we then also examine their means to see if there was any sort of trend
+<img src ="images/strep 2.png"/>
 
 Additionally the treatment means were examined and eventually they were dummied out and made a numeric varriable 
 <img src ="images/treatment.png"/>
