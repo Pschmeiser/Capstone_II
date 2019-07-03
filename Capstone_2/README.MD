@@ -18,10 +18,13 @@ Fun fact the number one reason adults check into hospitals is for having babies.
 For this study a large data set provided by Dryad Digital Repository and consists of 170+ metrics and entries for 2300 patients.  As you can see from a quick snap shot the data contained an extremely large amount of null's and other issues that had to be dealt with.
 <img src ="images/Data.png"/>
 
-There was also a section "organism 1" which had only a few cases overall but a decent influence.
+There was also a section "organism 1" which had only a few cases overall.
 <img src ="images/strep.png"/>
 So we then also examine their means to see if there was any sort of trend
 <img src ="images/strep 2.png"/>
+
+<img src ="images/strep 3.png"/>
+
 
 Additionally the treatment means were examined and eventually they were dummied out and made a numeric varriable 
 <img src ="images/treatment.png"/>
